@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1772590041.69358 "c:/Users/lidan/OneDrive/Escritorio/LEAN/Latin/Vocabularium.tex" "Vocabularium.pdf" "Vocabularium" 1772590042.44647 0
+["pdflatex"] 1772590181.46408 "c:/Users/lidan/OneDrive/Escritorio/LEAN/Latin/Vocabularium.tex" "Vocabularium.pdf" "Vocabularium" 1772590182.11228 0
   "C:/Users/lidan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1772233871 107510 0aa8bf47749266a307cdee61ee7b36ee ""
   "C:/Users/lidan/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1706134936 24225046 c81072a53a1e13304317b9a5efee7d87 ""
   "C:/Users/lidan/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -30,9 +30,9 @@
   "C:/Users/lidan/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty" 1665067579 2671 7e67d78d9b88c845599a85b2d41f2e39 ""
   "C:/Users/lidan/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1704400941 30006 57b07afb710ee2f649c65cfbafda39c1 ""
   "C:/Users/lidan/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1700599895 32515 51caec75eda9c8890135f12f1a4eddc3 ""
-  "Vocabularium.aux" 1772590042 108 3724f7c5281dab7f30c7c2b2f94044f7 "pdflatex"
-  "Vocabularium.tex" 1772590040 19245 31b4c8086ea932f7140338b2f764359e ""
-  "c:/Users/lidan/OneDrive/Escritorio/LEAN/Latin/Vocabularium.tex" 1772590040 19245 31b4c8086ea932f7140338b2f764359e ""
+  "Vocabularium.aux" 1772590181 108 3724f7c5281dab7f30c7c2b2f94044f7 "pdflatex"
+  "Vocabularium.tex" 1772590180 19271 00b9b8f1afc81e4ffbf948d690a13b3f ""
+  "c:/Users/lidan/OneDrive/Escritorio/LEAN/Latin/Vocabularium.tex" 1772590180 19271 00b9b8f1afc81e4ffbf948d690a13b3f ""
   (generated)
   "Vocabularium.aux"
   "Vocabularium.log"
