@@ -1,815 +1,1278 @@
-\documentclass[a4paper,12pt]{article}
-\usepackage[utf8]{inputenc}
-\usepackage{multicol}   % para columnas múltiples
-\usepackage{babel}
-\usepackage[margin=2cm]{geometry}
-\usepackage{amsmath, amssymb}
 
-\setlength{\parindent}{0pt}
-\setlength{\columnsep}{25pt}
-\newcommand{\voc}[1]{\textbf{#1}}
-\newcommand{\ita}[1]{\textit{#1}}
-\begin{document}
+ \newglossaryentry{aborigines}{
+  name={Aborīginēs, -um, \ita{m}},
+  description={pueblos primitivos de Italia}
+}
+
+\newglossaryentry{absumere}{
+  name={Absūmere absumpsisse absumptum},
+  description={gastar, consumir, destruir, morir}
+}
+
+\newglossaryentry{adimere}{
+  name={Adimere adēmisse ademptum},
+  description={quitar, arrancar, arrebatar}
+}
+
+\newglossaryentry{aedes}{
+  name={Aedēs, -is, \ita{f}},
+  description={templo, morada, habitación}
+}
+
+\newglossaryentry{aerarium}{
+  name={Aerārium, -ī, \ita{m}},
+  description={erario}
+}
+
+\newglossaryentry{aereus}{
+  name={Aereus -a -um},
+  description={de cobre o de bronce}
+}
+
+\newglossaryentry{aes}{
+  name={Aes, -ris, \ita{n}},
+  description={bronce, cobre}
+}
+
+\newglossaryentry{aeternus}{
+  name={Aeternus -a -um},
+  description={eterno}
+}
+
+\newglossaryentry{alloqui}{
+  name={Alloquī allocūtus esse},
+  description={saludar, hablar, dirigirse a, apelar a los dioses}
+}
+
+\newglossaryentry{amens}{
+  name={Āmēns, -entis},
+  description={loco, demente, insensato}
+}
+
+\newglossaryentry{amplecti}{
+  name={Amplectī amplexus esse},
+  description={abrazar, rodear, envolver, acoger, abarcar, apegarse a}
+}
+
+\newglossaryentry{amplus}{
+  name={Amplus -a -um},
+  description={amplio, extenso, ilustre, notable}
+}
+
+\newglossaryentry{anguis}{
+  name={Anguis, -is, \ita{m}},
+  description={serpiente}
+}
+
+\newglossaryentry{anniversarius}{
+  name={Anniversārius -a -um},
+  description={anual, que se celebra o sucede todos los años}
+}
+
+\newglossaryentry{ara}{
+  name={Āra, -ae, \ita{f}},
+  description={altar}
+}
+
+\newglossaryentry{arcuatus}{
+  name={Arcuātus -a -um},
+  description={arqueado}
+}
+
+\newglossaryentry{ardere}{
+  name={Ārdēre ārsisse ārsum},
+  description={arder, brillar}
+}
+
+\newglossaryentry{arvum}{
+  name={Arvum, -ī, \ita{n}},
+  description={campiña, tierra de labor}
+}
+
+\newglossaryentry{arx}{
+  name={Arx, -cis, \ita{f}},
+  description={ciudadela, fortaleza, cumbre}
+}
+
+\newglossaryentry{attingere}{
+  name={Attingere attigisse attāctum},
+  description={tocar, alcanzar}
+}
+
+\newglossaryentry{augustus}{
+  name={Augustus -a -um},
+  description={santo, majestuoso}
+}
+
+\newglossaryentry{aura}{
+  name={Aura, -ae, \ita{f}},
+  description={aura, soplo, aliento}
+}
+
+\newglossaryentry{auratus}{
+  name={Aurātus -a -um},
+  description={dorado, adornado con oro}
+}
+
+\newglossaryentry{avehere}{
+  name={Āvehere āvēxisse āvēctum},
+  description={llevar, transportar, irse, retirarse}
+}
+
+
+
+\newglossaryentry{balneae}{
+  name={Balneae, -ārum \ita{f}},
+  description={baños}
+}
+
+\newglossaryentry{barba}{
+  name={Barba, -ae, \ita{f}},
+  description={barba}
+}
+
+\newglossaryentry{basilica}{
+  name={Basilica, -ae, \ita{f}},
+  description={Basílica, edificio público}
+}
+
+\newglossaryentry{benignus}{
+  name={Benignus -a -um},
+  description={benigno, afable, amable, propicio, favorable}
+}
+
+\newglossaryentry{bibliotheca}{
+  name={Bibliothēca, -ae, \ita{f}},
+  description={biblioteca}
+}
+
+\newglossaryentry{caelestis}{
+  name={Caelestis -e},
+  description={celeste, divino}
+}
+
+\newglossaryentry{candelabrum}{
+  name={Candēlābrum, -ī, \ita{n}},
+  description={candelabro}
+}
+
+\newglossaryentry{casa}{
+  name={Casa, -ae, \ita{f}},
+  description={choza, cabaña}
+}
+
+\newglossaryentry{celeber}{
+  name={Celeber (-bris) -bris -bre},
+  description={frecuentado, concurrido, famoso, festivo}
+}
+
+\newglossaryentry{cella}{
+  name={Cella, -ae, \ita{f}},
+  description={bodega, capilla, habitación}
+}
+
+\newglossaryentry{clipeus}{
+  name={Clipeus, -ī, \ita{m}},
+  description={escudo redondo}
+}
+
+\newglossaryentry{clivus}{
+  name={Clīvus, -ī, \ita{m}},
+  description={pendiente, cuesta, subida}
+}
+
+\newglossaryentry{cloaca}{
+  name={Cloāca, -ae, \ita{f}},
+  description={cloaca}
+}
+
+\newglossaryentry{collabi}{
+  name={Collābī collāpsus esse},
+  description={caer en ruinas, desplomarse, desvanecerse}
+}
+
+\newglossaryentry{collocare}{
+  name={Collocāre collocāvisse collocātum},
+  description={poner, colocar, situar}
+}
+
+\newglossaryentry{coma}{
+  name={Coma, -ae, \ita{f}},
+  description={cabellera, mechón de pelo}
+}
+
+\newglossaryentry{commitere}{
+  name={Commitere commīsisse commissum},
+  description={empezar, comenzar}
+}
+
+\newglossaryentry{commovere}{
+  name={Commovēre commōvisse commōtum},
+  description={mover, agitar, conmover}
+}
+
+\newglossaryentry{complecti}{
+  name={Complectī complexus esse},
+  description={abrazar, abarcar, acoger}
+}
+
+\newglossaryentry{comprehendere}{
+  name={Comprehendere comprehendisse comprehēnsum},
+  description={comprender, apresar}
+}
+
+\newglossaryentry{concedere}{
+  name={Concēdere concessisse concessum},
+  description={conceder, permitir}
+}
+
+\newglossaryentry{concidere}{
+  name={Concidere concidisse (sin supino)},
+  description={caer, desplomarse}
+}
+
+\newglossaryentry{conclamare}{
+  name={Conclāmāre conclāmāvisse conclāmātum},
+  description={gritar en conjunto, clamar}
+}
+
+\newglossaryentry{concordia}{
+  name={Concordia, -ae, \ita{f}},
+  description={concordia, alianza}
+}
+
+\newglossaryentry{conferre}{
+  name={Cōnferre contulisse collātum},
+  description={reunir, comparar, aportar, congregar}
+}
+
+\newglossaryentry{confugere}{
+  name={Cōnfugere cōnfūgisse (sin supino)},
+  description={huir, refugiarse}
+}
+
+\newglossaryentry{conicere}{
+  name={Conicere coniēcisse coniectum},
+  description={arrojar, lanzar, conjeturar}
+}
+
+\newglossaryentry{consecrari}{
+  name={Cōnsecrāre cōnsecrāvisse cōnsecrātum},
+  description={consagrar, dedicar a los dioses, inmortalizar}
+}
+
+\newglossaryentry{consul}{
+  name={Cōnsul, -is, \ita{m}},
+  description={cónsul}
+}
+
+\newglossaryentry{contingere}{
+  name={Contingere contigisse contāctum},
+  description={tocar, suceder, alcanzar}
+}
+
+\newglossaryentry{corripere}{
+  name={Corripere corripuisse correptum},
+  description={arrebatar, atrapar, asir, reprochar, reprender}
+}
+
+\newglossaryentry{cremare}{
+  name={Cremāre cremāvisse cremātum},
+  description={cremar, incinerar}
+}
+
+\newglossaryentry{crinis}{
+  name={Crīnis, -is, \ita{m}},
+  description={cabello, cabellera}
+}
+
+\newglossaryentry{culmen}{
+  name={Culmen, -inis, \ita{n}},
+  description={cima, cúspide, parte más alta}
+}
+
+\newglossaryentry{curia}{
+  name={Cūria, -ae, \ita{f}},
+  description={lugar de reunión del senado}
+}
+
+\newglossaryentry{custos}{
+  name={Cūstōs, -ōdis, \ita{m}},
+  description={guardián, vigilante, protector, custodio}
+}
+
+
+\newglossaryentry{decurrere}{
+  name={Dēcurrere dēcurrisse dēcursum},
+  description={correr, descender, bajar}
+}
+
+\newglossaryentry{dedicare}{
+  name={Dēdicāre dēdicāvisse dēdicātum},
+  description={declarar, dedicar, consagrar}
+}
+
+\newglossaryentry{deducere}{
+  name={Dēdūcere dēdūxisse dēductum},
+  description={desviar, conducir, apartar, hacer bajar}
+}
+
+\newglossaryentry{defensor}{
+  name={Dēfēnsor, -ōris, \ita{m}},
+  description={defensor, protector}
+}
+
+\newglossaryentry{defigere}{
+  name={Dēfīgere dēfīxisse dēfīxum},
+  description={clavar, fijar}
+}
+
+\newglossaryentry{demittere}{
+  name={Dēmittere dēmīssisse dēmīssum},
+  description={dejar caer, enviar abajo}
+}
+
+\newglossaryentry{deponere}{
+  name={Dēpōnere dēposuisse dēpositum},
+  description={deponer, dejar, recostar, depositar, quitar, guardar}
+}
+
+\newglossaryentry{destruere}{
+  name={Dēstruere dēstruxisse dēstructum},
+  description={destruir, demoler, arruinar}
+}
+
+\newglossaryentry{discordia}{
+  name={Discordia, -ae, \ita{f}},
+  description={discordia}
+}
+
+\newglossaryentry{discumbere}{
+  name={Discumbere discubuisse discubitum},
+  description={recostarse para comer}
+}
+
+\newglossaryentry{diuturnus}{
+  name={Diūturnus -a -um},
+  description={duradero, prolongado}
+}
+
+\newglossaryentry{divinus}{
+  name={Dīvīnus -a -um},
+  description={divino}
+}
+
+\newglossaryentry{divus}{
+  name={Dīvus -a -um},
+  description={divino}
+}
+
+\newglossaryentry{dolus}{
+  name={Dolus, -ī, \ita{m}},
+  description={astucia, fraude, engaño, dolo}
+}
+
+\newglossaryentry{domesticus}{
+  name={Domesticus -a -um},
+  description={doméstico, de la casa, de la familia}
+}
+
+\newglossaryentry{dominari}{
+  name={Dominārī dominātus esse},
+  description={dominar, ejercer poder, gobernar, mandar}
+}
+
+\newglossaryentry{ductus}{
+  name={Ductus, -ūs, \ita{m}},
+  description={conducción, ductos}
+}
+
+\newglossaryentry{dudum}{
+  name={Dūdum, \ita{adv}},
+  description={hace tiempo, hace poco}
+}
+
+
+\newglossaryentry{efferre}{
+  name={Efferre extulisse ēlātum},
+  description={sacar, elevar, enterrar, levantar}
+}
+
+\newglossaryentry{egere}{
+  name={Egēre eguisse (sin supino)},
+  description={necesitar, carecer, desear}
+}
+
+\newglossaryentry{elabi}{
+  name={Ēlābī ēlāpsus esse},
+  description={deslizarse, escapar}
+}
+
+\newglossaryentry{eminere}{
+  name={Ēminēre ēminuisse (sin pasivo ni supino)},
+  description={sobresalir, destacar, elevarse, distinguirse}
+}
+
+\newglossaryentry{erigere}{
+  name={Ērigere ērēxisse ērēctum},
+  description={levantar, erguir, enderezar, construir, ponerse de pie}
+}
+
+\newglossaryentry{evenire}{
+  name={Ēvenīre ēvēnisse ēventum},
+  description={resultar, suceder, ocurrir, acontecer}
+}
+
+\newglossaryentry{exercere}{
+  name={Exercēre exercuisse exercitum},
+  description={trabajar, labrar, ejercitar, practicar, ejercer, impeler}
+}
+
+\newglossaryentry{expellere}{
+  name={Expellere expepulisse expulsum},
+  description={echar, expulsar, rechazar, arrojar}
+}
+
+\newglossaryentry{explicare}{
+  name={Explicāre explicāvisse explicātum},
+  description={desenredar, desplegar, aflojar, desenrollar}
+}
+
+\newglossaryentry{exstinguere}{
+  name={Exstinguere exstinxisse exstinctum},
+  description={extinguir, anular, desaparecer, destruir}
+}
+
+\newglossaryentry{extruere}{
+  name={Extruere exstruxisse exstructum},
+  description={construir, edificar, erigir, amontonar}
+}
+
+
+\newglossaryentry{fabricare}{
+  name={Fabricāre fabricāvisse fabricātum},
+  description={fabricar, construir, forjar}
+}
+
+\newglossaryentry{factio}{
+  name={Factiō, -ōnis, \ita{f}},
+  description={asociación, partido, facción, bando}
+}
+
+\newglossaryentry{famulus}{
+  name={Famulus, -ī, \ita{m}},
+  description={siervo, criado, servidor}
+}
+
+\newglossaryentry{fas}{
+  name={Fās, indec, \ita{n}},
+  description={lo permitido por la ley divina, lo justo según los dioses}
+}
+
+\newglossaryentry{festus}{
+  name={Fēstus -a -um},
+  description={día festivo}
+}
+
+\newglossaryentry{firmus}{
+  name={Fīrmus -a -um},
+  description={firme, sólido, resistente, seguro}
+}
+
+\newglossaryentry{flagrare}{
+  name={Flagrāre flagrāvisse flagrātum},
+  description={arder, quemarse}
+}
+
+\newglossaryentry{flamma}{
+  name={Flamma, -ae, \ita{f}},
+  description={flama}
+}
+
+\newglossaryentry{focus}{
+  name={Focus, -ī, \ita{m}},
+  description={hoguera, fuego del hogar}
+}
+
+\newglossaryentry{fragor}{
+  name={Fragor, -ōris, \ita{m}},
+  description={estrépito, ruido fuerte, estruendo}
+}
+
+\newglossaryentry{frons}{
+  name={Frōns, -ondis, \ita{f}},
+  description={follaje, hojas, ramas}
+}
+
+\newglossaryentry{fulgere}{
+  name={Fulgēre fulsisse (sin supino)},
+  description={relampaguear, resplandecer}
+}
+
+\newglossaryentry{funis}{
+  name={Fūnis, -is, \ita{m}},
+  description={cuerda, cable, amarra}
+}
+
+\newglossaryentry{gemere}{
+  name={Gemere gemuisse gemitum},
+  description={gemir, quejarse}
+}
+
+\newglossaryentry{gemitus}{
+  name={Gemitus, -ūs, \ita{m}},
+  description={gemido, lamento}
+}
+
+\newglossaryentry{genetrix}{
+  name={Genetrīx, -īcris, \ita{f}},
+  description={madre}
+}
+
+\newglossaryentry{gloriari}{
+  name={Glōriārī glōriātus esse},
+  description={gloriarse}
+}
+
+\newglossaryentry{haerere}{
+  name={Haerēre haesisse haesum},
+  description={clavarse, hundirse, detenerse, adherirse, unirse, estar perplejo}
+}
+
+\newglossaryentry{horror}{
+  name={Horror, -ōris, \ita{m}},
+  description={horror, espanto}
+}
+
+\newglossaryentry{ibidem}{
+  name={Ibīdem, \ita{adv}},
+  description={allí mismo, en el mismo lugar}
+}
+
+\newglossaryentry{illustris}{
+  name={Illūstris -e},
+  description={brillante, notable}
+}
+
+\newglossaryentry{immolare}{
+  name={Immolāre immolāvisse immolātum},
+  description={inmolar, sacrificar}
+}
+
+\newglossaryentry{incendere}{
+  name={Incendere incendisse incēnsum},
+  description={incendiar, quemar, iluminar}
+}
+
+\newglossaryentry{incendium}{
+  name={Incendium, -iī, \ita{n}},
+  description={fuego, incendio}
+}
+
+\newglossaryentry{incitare}{
+  name={Incitāre incitāvisse incitātum},
+  description={incitar, estimular}
+}
+
+\newglossaryentry{incohare}{
+  name={Incohāre incohāvisse incohātum},
+  description={comenzar, emprender, empezar}
+}
+
+\newglossaryentry{inducere}{
+  name={Indūcere induxisse inductum},
+  description={conducir, introducir, cubrir, aplanar}
+}
+
+\newglossaryentry{ineluctabilis}{
+  name={Inēluctābilis -e},
+  description={inevitable, irresistible}
+}
+
+\newglossaryentry{infirmus}{
+  name={Īnfīrmus -a -um},
+  description={débil, frágil}
+}
+
+\newglossaryentry{inire}{
+  name={Inīre inīvisse initum},
+  description={entrar, penetrar, empezar, asistir}
+}
+
+\newglossaryentry{insania}{
+  name={Īnsānia, -ae, \ita{f}},
+  description={locura, insensatez, demencia}
+}
+
+\newglossaryentry{insanus}{
+  name={Īnsānus -a -um},
+  description={insano, loco}
+}
+
+\newglossaryentry{inspicere}{
+  name={Īnspicere īnspexisse īnspectum},
+  description={fijar la mirada en, mirar, examinar, inspeccionar}
+}
+
+\newglossaryentry{instaurare}{
+  name={Īnstaurāre īnstaurāvisse īnstaurātum},
+  description={instaurar, renovar, comenzar de nuevo, establecer}
+}
+
+\newglossaryentry{interiectus}{
+  name={Interiectus -a -um},
+  description={interpuesto}
+}
+
+\newglossaryentry{inter}{
+  name={Inter interior intimus, \ita{adv}},
+  description={en el interior}
+}
+
+\newglossaryentry{inultus}{
+  name={Inultus -a -um},
+  description={no vengado, impune}
+}
+
+\newglossaryentry{inutilis}{
+  name={Inūtilis -e},
+  description={inútil}
+}
+
+\newglossaryentry{iustitia}{
+  name={Iūstitia, -ae, \ita{f}},
+  description={justicia}
+}
+
+\newglossaryentry{iuventus}{
+  name={Iuventūs, -ūtis, \ita{f}},
+  description={juventud}
+}
+
+
+
+
+\newglossaryentry{later}{
+  name={Later, -eris, \ita{m}},
+  description={ladrillo}
+}
+
+\newglossaryentry{latericius}{
+  name={Latericius, -tius, -a -um},
+  description={de ladrillo, enladrillado}
+}
+
+\newglossaryentry{laurus}{
+  name={Laurus, -ī, \ita{f}},
+  description={laurel, corona de laurel}
+}
+
+\newglossaryentry{locare}{
+  name={Locāre locāvisse locātum},
+  description={colocar, situar, establecer}
+}
+
+\newglossaryentry{longitudo}{
+  name={Longitūdō, -inis, \ita{f}},
+  description={longitud}
+}
+
+\newglossaryentry{luctus}{
+  name={Lūctus, -ūs, \ita{m}},
+  description={duelo, aflicción, luto}
+}
+
+\newglossaryentry{lumen}{
+  name={Lūmen, -inis, \ita{n}},
+  description={luz, resplandor}
+}
+
+\newglossaryentry{machina}{
+  name={Māchina, -ae, \ita{f}},
+  description={máquina, artificio, ingenio mecánico}
+}
+
+\newglossaryentry{magnitudo}{
+  name={Magnitūdō, -inis, \ita{f}},
+  description={magnitud, grandeza, imponente}
+}
+
+\newglossaryentry{marmor}{
+  name={Marmor, -oris, \ita{n}},
+  description={mármol}
+}
+
+\newglossaryentry{marmoreus}{
+  name={Marmoreus -a -um},
+  description={marmóreo, de mármol}
+}
+
+\newglossaryentry{mausoleum}{
+  name={Mausōlēum, -ī, \ita{n}},
+  description={mausoleo, tumba magnífica}
+}
+
+\newglossaryentry{metallum}{
+  name={Metallum, -ī, \ita{n}},
+  description={metal, mina}
+}
+
+\newglossaryentry{micare}{
+  name={Micāre micuisse},
+  description={brillar, centellear, moverse con rapidez}
+}
+
+\newglossaryentry{moles}{
+  name={Mōlēs, -is, \ita{f}},
+  description={masa, mole, gran peso, construcción enorme}
+}
+
+\newglossaryentry{monumentum}{
+  name={Monumentum, -ī, \ita{n}},
+  description={monumento}
+}
+
+\newglossaryentry{morbus}{
+  name={Morbus, -ī, \ita{m}},
+  description={enfermedad grave}
+}
+
+
+\newglossaryentry{nepos}{
+  name={Nepōs, -ōtis, \ita{m}},
+  description={nieto, descendiente}
+}
+
+\newglossaryentry{nequiquam}{
+  name={Nēquīquam, \ita{adv}},
+  description={en vano, inútilmente, sin fundamento, innecesariamente}
+}
+
+\newglossaryentry{numen}{
+  name={Nūmen, -inis, \ita{n}},
+  description={anuencia, voluntad, mandato}
+}
+
+\newglossaryentry{obtruncare}{
+  name={Obtruncāre},
+  description={cortar, mutilar, degollar}
+}
+
+\newglossaryentry{occultus}{
+  name={Occultus -a -um},
+  description={oculto, escondido}
+}
+
+\newglossaryentry{odor}{
+  name={Odor, -ōris, \ita{m}},
+  description={olor, aroma, perfume}
+}
+
+\newglossaryentry{onus}{
+  name={Onus, -eris, \ita{n}},
+  description={carga, peso, fardo}
+}
+
+\newglossaryentry{orator}{
+  name={Ōrātor, -ōris, \ita{m}},
+  description={orador, intercesor}
+}
+
+\newglossaryentry{origo}{
+  name={Orīgō, -inis, \ita{f}},
+  description={origen, nacimiento, descender de}
+}
+
+
+\newglossaryentry{palus}{
+  name={Palūs, -ūdis, \ita{f}},
+  description={pantano, charco, laguna}
+}
+
+\newglossaryentry{pandere}{
+  name={Pandere pandisse passum},
+  description={tender, extender, soltar}
+}
+
+\newglossaryentry{pariter}{
+  name={Pariter, \ita{adv}},
+  description={igualmente, al mismo tiempo, juntamente}
+}
+
+\newglossaryentry{patefacere}{
+  name={Patefacere patefecisse patefactum},
+  description={abrir, descubrir, revelar}
+}
+
+\newglossaryentry{patricii}{
+  name={Patriciī, -ōrum, \ita{m}},
+  description={patricios}
+}
+
+\newglossaryentry{patrius}{
+  name={Patrius -a -um},
+  description={paterno, de los padres, ancestral, propio de la patria}
+}
+
+\newglossaryentry{pavidus}{
+  name={Pavidus -a -um},
+  description={temeroso, tímido, lleno de miedo}
+}
+
+\newglossaryentry{pavor}{
+  name={Pavor, -ōris, \ita{m}},
+  description={pavor, temor, miedo}
+}
+
+\newglossaryentry{pecus}{
+  name={Pecus, -ūdis, \ita{f}},
+  description={res, animal agropecuario}
+}
+
+\newglossaryentry{penetrare}{
+  name={Penetrāre penetrāvisse penetrātum},
+  description={penetrar, entrar en lo profundo, atravesar}
+}
+
+\newglossaryentry{penitus}{
+  name={Penitus, \ita{adv}},
+  description={profundamente, enteramente, hasta el fondo}
+}
+
+\newglossaryentry{perfundere}{
+  name={Perfundere},
+  description={empapar, bañar, inundar, cubrir completamente con un líquido}
+}
+
+\newglossaryentry{pius}{
+  name={Pius -a -um},
+  description={piadoso, devoto}
+}
+
+\newglossaryentry{plebeii}{
+  name={Plēbēiī, -ōrum, \ita{m}},
+  description={plebeyos}
+}
+
+\newglossaryentry{pons}{
+  name={Pōns, -tis, \ita{m}},
+  description={puente}
+}
+
+\newglossaryentry{pontifex}{
+  name={Pontifex, -icis, \ita{m}},
+  description={pontífice}
+}
+
+\newglossaryentry{porticus}{
+  name={Porticus, -ūs, \ita{f}},
+  description={pórtico, galería con columnas}
+}
+
+\newglossaryentry{praecipitare}{
+  name={Praecipitāre praecipitāvisse praecipitātum},
+  description={precipitar, despeñar}
+}
+
+\newglossaryentry{praeclarus}{
+  name={Praeclārus -a -um},
+  description={muy claro, luminoso, famoso}
+}
+
+\newglossaryentry{praedicere}{
+  name={Praedīcere praedīxisse praedictum},
+  description={predecir, profetizar}
+}
+
+\newglossaryentry{praeficere}{
+  name={Praeficere praefēcisse praefectum},
+  description={poner al frente, dar el mando, confiar la dirección en alguien}
+}
+
+\newglossaryentry{probare}{
+  name={Probāre probāvisse probātum},
+  description={probar, verificar, examinar, juzgar}
+}
+
+\newglossaryentry{prodigium}{
+  name={Prōdigium, -iī, \ita{n}},
+  description={prodigio, presagio, señal divina}
+}
+
+\newglossaryentry{producere}{
+  name={Prōdūcere prōdūxisse productum},
+  description={llevar adelante, sacar, conducir, prolongar}
+}
+
+\newglossaryentry{profugus}{
+  name={Profugus -a -um},
+  description={fugitivo, desterrado, exiliado}
+}
+
+\newglossaryentry{promuntorium}{
+  name={Prōmuntorium, -iī, \ita{n}},
+  description={promontorio}
+}
+
+\newglossaryentry{prora}{
+  name={Prōra, -ae, \ita{f}},
+  description={proa de un barco}
+}
+
+\newglossaryentry{quadratus}{
+  name={Quadrātus -a -um},
+  description={cuadrado}
+}
+
+\newglossaryentry{quondam}{
+  name={Quondam, \ita{adv}},
+  description={en otro tiempo, una vez, antiguamente}
+}
+
+\newglossaryentry{recusare}{
+  name={Recūsāre recūsāvisse recūsātum},
+  description={rechazar, rehuir, protestar, rehusar}
+}
+
+\newglossaryentry{reficere}{
+  name={Reficere refēcisse refectum},
+  description={reconstruir, reparar, restaurar}
+}
+
+\newglossaryentry{regia}{
+  name={Rēgia, -ae, \ita{f}},
+  description={residencial real, palacio}
+}
+
+\newglossaryentry{regius}{
+  name={Rēgius -a -um},
+  description={regio, real, digno del rey}
+}
+
+\newglossaryentry{regnum}{
+  name={Rēgnum, -ī, \ita{n}},
+  description={reino}
+}
+
+\newglossaryentry{renovare}{
+  name={Renovāre renovāvisse renovātum},
+  description={renovar, restaurar}
+}
+
+\newglossaryentry{repetere}{
+  name={Repetere repetīvisse repetītum},
+  description={intentar de nuevo, retomar, reanudar, volver a}
+}
+
+\newglossaryentry{resonare}{
+  name={Resonāre resonāvisse},
+  description={resonar}
+}
+
+\newglossaryentry{respicere}{
+  name={Respicere respexisse respectum},
+  description={mirar hacia atrás, volver la mirada hacia alguien, considerar}
+}
+
+\newglossaryentry{restare}{
+  name={Restāre restitisse (sin supino e impersonal en pasiva)},
+  description={quedar, permanecer, sobrar}
+}
+
+\newglossaryentry{restituere}{
+  name={Restituere restituisse restitūtum},
+  description={restituir, devolver, restaurar, restablecer}
+}
+
+\newglossaryentry{restringuere}{
+  name={Restringuere restrinxisse restrictum},
+  description={atar, restringir, oprimir, mostrar}
+}
+
+\newglossaryentry{revisere}{
+  name={Revīsere revīsisse revīsum},
+  description={volver, visitar de nuevo, volver a ver}
+}
+
+\newglossaryentry{robur}{
+  name={Rōbur, -oris, \ita{n}},
+  description={roble}
+}
+
+\newglossaryentry{rostrum}{
+  name={Rōstrum, -ī, \ita{n}},
+  description={pico de ave}
+}
+
+\newglossaryentry{rotundus}{
+  name={Rotundus -a -um},
+  description={redondo}
+}
+
+\newglossaryentry{ruere}{
+  name={Ruere ruisse rutus},
+  description={caer, hundirse, desmoronarse, precipitarse, derribar}
+}
+
+\newglossaryentry{sacer}{
+  name={Sacer -cra -crum},
+  description={sagrado}
+}
+
+\newglossaryentry{sacrare}{
+  name={Sacrāre sacrāvisse sacrātum},
+  description={consagrar, dedicar, santificar}
+}
+
+\newglossaryentry{sacrificium}{
+  name={Sacrificium, -iī, \ita{n}},
+  description={sacrificio, ofrenda}
+}
+
+\newglossaryentry{saucius}{
+  name={Saucius -a -um},
+  description={herido, golpeado, destrozado, debilitado, enfermo}
+}
+
+\newglossaryentry{sceleratus}{
+  name={Scelerātus -a -um},
+  description={profanado, criminal, impío, perverso, funesto}
+}
+
+\newglossaryentry{sedes}{
+  name={Sēdēs, -dis, \ita{f}},
+  description={sede, asiento, morada}
+}
+
+\newglossaryentry{senator}{
+  name={Senātor, -ōris, \ita{m}},
+  description={senador}
+}
+
+\newglossaryentry{senatus}{
+  name={Senātus, -ūs, \ita{m}},
+  description={senado}
+}
+
+\newglossaryentry{siccari}{
+  name={Siccāre siccāvisse siccātum},
+  description={secar, desecar, ordeñar}
+}
+
+\newglossaryentry{simulacrum}{
+  name={Simulācrum, -ī, \ita{n}},
+  description={imagen, estatua, retrato, apariencia, simulacro}
+}
+
+\newglossaryentry{socius}{
+  name={Socius, -iī, \ita{m}},
+  description={compañero, aliado}
+}
+
+\newglossaryentry{somnium}{
+  name={Somnium, -ī, \ita{n}},
+  description={sueño}
+}
+
+\newglossaryentry{sonare}{
+  name={Sonāre sonuisse sonitum},
+  description={sonar, emitir un sonido}
+}
+
+\newglossaryentry{species}{
+  name={Speciēs, -ēī, \ita{f}},
+  description={aspecto, apariencia, figura}
+}
+
+\newglossaryentry{splendere}{
+  name={Splendēre splenduisse (sin supino ni voz pasiva)},
+  description={brillar, resplandecer}
+}
+
+\newglossaryentry{splendidus}{
+  name={Splendidus -a -um},
+  description={brillante, claro, resplandeciente}
+}
+
+\newglossaryentry{stadium}{
+  name={Stadium, -iī, \ita{n}},
+  description={estadio, pista de carreras}
+}
+
+\newglossaryentry{stagnum}{
+  name={Stāgnum, -ī, \ita{n}},
+  description={estanque, laguna, charca}
+}
+
+\newglossaryentry{statua}{
+  name={Statua, -ae, \ita{f}},
+  description={estatua}
+}
+
+\newglossaryentry{stramentum}{
+  name={Strāmentum, -ī, \ita{n}},
+  description={paja, cubierta de paja}
+}
+
+\newglossaryentry{stringere}{
+  name={Stringere strinxisse strictum},
+  description={estrechar, apretar}
+}
+
+\newglossaryentry{subterraneus}{
+  name={Subterrāneus -a -um},
+  description={subterráneo}
+}
+
+\newglossaryentry{superare}{
+  name={Superāre superāvisse superātum},
+  description={superar, vencer, prevalecer, abundar}
+}
+
+\newglossaryentry{supremus}{
+  name={Suprēmus -a -um},
+  description={el más alto, parte más alta, supremo}
+}
+
+\newglossaryentry{suspectus}{
+  name={Suspectus -a -um},
+  description={sospechoso}
+}
+
+
+
+
+
+\newglossaryentry{tegere}{
+  name={Tegere texisse tectum},
+  description={cubrir, proteger, techar}
+}
+
+\newglossaryentry{telum}{
+  name={Tēlum, -ī, \ita{n}},
+  description={arma arrojadiza, proyectil, dardo}
+}
+
+\newglossaryentry{tendere}{
+  name={Tendere tetendisse tensum (o tentum)},
+  description={tender, estirar, levantar}
+}
+
+\newglossaryentry{tener}{
+  name={Tener -a -um},
+  description={tierno, delicado, ligero, endeble, afeminado}
+}
+
+\newglossaryentry{thermae}{
+  name={Thermae, -ārum, \ita{f}},
+  description={baños públicos, termas}
+}
+
+\newglossaryentry{tonare}{
+  name={Tonāre tonuisse},
+  description={tronar, retumbar}
+}
+
+\newglossaryentry{trabs}{
+  name={Trabs, -bis, \ita{f}},
+  description={viga, tronco, madera grande}
+}
+
+\newglossaryentry{triumphalis}{
+  name={Triumphalis -e},
+  description={triunfal}
+}
+
+\newglossaryentry{triumphare}{
+  name={Triumphāre triumphāvisse triumphātum},
+  description={triunfar, celebrar un triunfo}
+}
+
+\newglossaryentry{triumphus}{
+  name={Triumphus, -ī, \ita{m}},
+  description={triunfo, entrada solemne del general victorioso llevado por un carro al Capitolio}
+}
+
+\newglossaryentry{trucidare}{
+  name={Trucīdāre trucīdāvisse trucīdātum},
+  description={degollar, masacrar, extinguir}
+}
+
+\newglossaryentry{tuba}{
+  name={Tuba, -ae, \ita{f}},
+  description={trompeta}
+}
+
+\newglossaryentry{tumulus}{
+  name={Tumulus, -ī, \ita{m}},
+  description={colina, elevación de tierra, tumba}
+}
+
+\newglossaryentry{turris}{
+  name={Turris, -is, \ita{f}},
+  description={torre}
+}
+
+
+\newglossaryentry{uber}{
+  name={Ūber, -ris},
+  description={ubre, seno, fecundo, rico}
+}
+
+\newglossaryentry{ulcisci}{
+  name={Ulcīscī ulciscultus esse},
+  description={vengar, castigar}
+}
+
+\newglossaryentry{ultor}{
+  name={Ultor, -ōris, \ita{m}},
+  description={vengador}
+}
+
+\newglossaryentry{ululatus}{
+  name={Ululātus, -ūs, \ita{m}},
+  description={aullido, grito prolongado}
+}
+
+\newglossaryentry{undique}{
+  name={Undique, \ita{adv}},
+  description={de todas partes, por todas partes}
+}
+
+\newglossaryentry{vadere}{
+  name={Vādere vāsisse},
+  description={marchar, avanzar, ir contra}
+}
+
+\newglossaryentry{vastus}{
+  name={Vāstus -a -um},
+  description={vacío, desierto, inmenso, enorme}
+}
+
+\newglossaryentry{vestibulum}{
+  name={Vestibulum, -ī, \ita{n}},
+  description={vestíbulo, entrada}
+}
+
+\newglossaryentry{vetustas}{
+  name={Vetustās, -ātis, \ita{f}},
+  description={antigüedad, vejez, tiempo antiguo}
+}
+
+\newglossaryentry{vicus}{
+  name={Vīcus, -ī, \ita{m}},
+  description={barrio, calle}
+}
+
+\newglossaryentry{vinculum}{
+  name={Vinculum, -ī, \ita{n}},
+  description={cadena, ligadura, vínculo}
+}
+
+\newglossaryentry{vovere}{
+  name={Vovēre vovisse votum},
+  description={prometer, hacer un voto a una divinidad}
+}
 
-\section*{\LARGE Vocabularium}
-\vspace{0.7cm}
-% Inicio de dos columnas
-\begin{multicols}{2}
- \subsection*{\Large\textbf{A}}
-\voc{Aborīginēs, -um, \ita{m}}: pueblos primitivos de Italia. 
-\medskip
 
-\voc{Absūmere absumpsisse absumptum:} gastar, consumir, destruir, morir.
-\medskip
 
-\voc{Adimere adēmisse ademptum:} quitar, arrancar, arrebatar.
-\medskip
-
-\voc{Aedēs, -is, \ita{f}:} templo, morada, habitación.
-\medskip
-
-\voc{Aerārium, -ī, \ita{m}:} erario.
-\medskip
-
-\voc{Aereus -a -um:} de cobre o de bronce.
-\medskip
-
-\voc{Aes, -ris, \ita{n}:} bronce, cobre.
-\medskip
-
-\voc{Aeternus -a -um:} eterno.
-\medskip
-
-\voc{Alloquī allocūtus esse:} saludar, hablar, dirigirse a, apelar a los dioses.
-\medskip
-
-\voc{Āmēns, -entis:} loco, demente, insensato.
-\medskip
-
-\voc{Amplectī amplexus esse:} abrazar, rodear, envolver, acoger, abarcar, apegarse a.
-\medskip
-
-\voc{Amplus -a -um:} amplio, extenso, ilustre, notable.
-\medskip
-
-\voc{Anguis, -is, \ita{m}:} serpiente.
-\medskip
-
-\voc{Anniversārius -a -um:} anual, que se celebra o sucede todos los años.
-\medskip
-
-\voc{Āra, -ae, \ita{f}:} altar.
-\medskip
-
-\voc{Arcuātus -a -um:} arqueado.
-\medskip
-
-\voc{Ārdēre ārsisse ārsum:} arder, brillar.
-\medskip
-
-\voc{Arvum, -ī, \ita{n}:} campiña, tierra de labor.
-\medskip
-
-\voc{Arx, -cis, \ita{f}:} ciudadela, fortaleza, cumbre.
-\medskip
-
-\voc{Attingere attigisse attāctum:} tocar, alcanzar.
-\medskip
-
-\voc{Augustus -a -um:} santo, majestuoso.
-\medskip
-
-\voc{Aura, -ae, \ita{f}:} aura, soplo, aliento.
-\medskip
-
-\voc{Aurātus -a -um:} dorado, adornado con oro.
-\medskip
-
-\voc{Āvehere āvēxisse āvēctum:} llevar, transportar, irse, retirarse.
-\medskip
-
- \subsection*{\Large\voc{B}}
-
-\voc{Balneae, -ārum f:} baños.
-\medskip
-
-\voc{Barba, -ae, \ita{f}:} barba.
-\medskip
-
-\voc{Basilica, -ae, \ita{f}:} Basílica, edificio público.
-\medskip
-
-\voc{Benignus -a -um:} benigno, afable, amable, propicio, favorable.
-\medskip
-
-\voc{Bibliothēca, -ae, \ita{f}:} biblioteca.
-\medskip
-
-
-\subsection*{\Large\voc{C}}
-\voc{Caelestis -e:} celeste, divino.
-\medskip
-
-\voc{Candēlābrum, ī, \ita{n}:} candelabro.
-\medskip
-
-\voc{Casa, -ae \ita{f}:} choza, cabaña.
-\medskip
-
-\voc{Celeber (-bris) -bris -bre:} frecuentado, concurrido, famoso, festivo.
-\medskip
-
-\voc{Cella, -ae, \ita{f}:} bodega, capilla, habitación.
-\medskip
-
-\voc{Clipeus, -ī, \ita{m}:} escudo redondo.
-\medskip
-
-\voc{Clīvus, -ī, \ita{m}:} pendiente, cuesta, subida.
-\medskip
-
-\voc{Cloāca, -ae, \ita{f}:} cloaca.
-\medskip
-
-\voc{Collābī collāpsus esse:} caer en ruinas, desplomarse, desvanecerse.
-\medskip
-
-\voc{Collocāre collocāvisse collocātum:} poner, colocar, situar.
-\medskip
-
-\voc{Coma, -ae, \ita{f}:} cabellera, mechón de pelo.
-\medskip
-
-\voc{Commitere commīsisse commissum:} empezar, comenzar.
-\medskip
-
-\voc{Commovēre commōvisse commōtum:} mover, agitar, conmover.
-\medskip
-
-\voc{Complectī complexus esse:} abrazar, abarcar, acoger.
-\medskip
-
-\voc{Comprehendere comprehendisse comprehēnsum:} comprender, apresar.
-\medskip
-
-\voc{Concēdere concessisse concessum:} conceder, permitir.
-\medskip
-
-\voc{Concidere concidisse (sin supino):} caer, desplomarse.
-\medskip
-
-\voc{Conclāmāre conclāmāvisse, conclāmātum:} gritar en conjunto, clamar.
-\medskip
-
-\voc{Concordia, -ae, \ita{f}:} concordia, alianza.
-\medskip
-
-\voc{Cōnferre contulisse collātum:} reunir, comparar, aportar, congregar.
-\medskip
-
-\voc{Cōnfugere cōnfūgisse (sin supino):} huir, refugiarse.
-\medskip
-
-\voc{Conicere coniēcisse coniectum:} arrojar, lanzar, conjeturar.
-\medskip
-
-\voc{Cōnsecrāre cōnsecrāvisse cōnsecrātum:} consagrar, dedicar a los dioses, inmortalizar.
-\medskip
-
-\voc{Cōnsul, -is, \ita{m}:} cónsul.
-\medskip
-
-\voc{Contingere contigisse contāctum:} tocar, suceder, alcanzar.
-\medskip
-
-\voc{Corripere corripuisse correptum:} arrebatar, atrapar, asir, reprochar, reprender.
-\medskip
-
-\voc{Cremāre cremāvisse cremātum:} cremar, incinerar.
-\medskip
-
-\voc{Crīnis, -is, \ita{m}:} cabello, cabellera.
-\medskip
-
-\voc{Culmen, -inis, \ita{n}:} cima, cúspide, parte más alta.
-\medskip
-
-\voc{Cūria, -ae, \ita{f}:} lugar de reunión del senado.
-\medskip
-
-\voc{Cūstōs, -ōdis, \ita{m}:} guardián, vigilante, protector, custodio.
-\medskip
-
-
-\subsection*{\Large \voc{D}}
-\voc{Dēcurrere dēcurrisse dēcursum:} correr, descender, bajar. 
-\medskip
-
-\voc{Dēdicāre dēdicāvisse dēdicātum:} declarar, dedicar, consagrar.
-\medskip
-
-\voc{Dēdūcere dēdūxisse dēductum:} desviar, conducir, apartar, hacer bajar.
-\medskip
-
-\voc{Dēfēnsor, -ōris, \ita{m}:} defensor, protector.
-\medskip
-
-\voc{Dēfīgere dēfīxisse dēfīxum:} clavar, fijar.
-\medskip
-
-\voc{Dēmittere dēmīssisse dēmīssum:} dejar caer, enviar abajo.
-\medskip
-
-\voc{Dēpōnere dēposuisse dēpositum:} deponer, dejar, recostar, depositar, quitar, guardar.
-\medskip
-
-\voc{Dēstruere dēstruxisse dēstructum:} destruir, demoler, arruinar.
-\medskip
-
-\voc{Discordia, -ae, \ita{f}:} discordia.
-\medskip
-
-\voc{Discumbere discubuisse discubitum:} 
-\medskip
-
-\voc{Diūturnus -a -um:} duradero, prolongado.
-\medskip
-
-\voc{Dīvīnus -a -um:} divino.
-\medskip
-
-\voc{Dīvus -a -um:} divino.
-\medskip
-
-\voc{Dolus, -ī, \ita{m}:} astucia, fraude, engaño, dolo.
-\medskip
-
-\voc{Domesticus -a -um:} doméstico, de la casa, de la familia.
-\medskip
-
-\voc{Dominārī dominātus esse:} dominar, ejercer poder, gobernar, mandar.
-\medskip
-
-\voc{Ductus, -ūs, \ita{m}:} conducción, ductos.
-\medskip
-
-\voc{Dūdum, \ita{adv}:} hace tiempo, hace poco.
-\medskip
-
-\subsection*{\Large \voc{E}}
-\voc{Efferre extulisse ēlātum:} sacar, elevar, enterrar, levantar.
-\medskip
-
-\voc{Egēre eguisse (sin supino):} necesitar, carecer, desear.
-\medskip
-
-\voc{Ēlābī ēlāpsus esse:} deslizarse, escapar.
-\medskip
-
-\voc{Ēminēre ēminuisse (sin pasivo ni supino):} sobresalir, destacar, elevarse, distinguirse.
-\medskip
-
-\voc{Ērigere ērēxisse ērēctum:} levantar, erguir, enderezar, construir, ponerse de pie.
-\medskip
-
-\voc{Ēvenīre ēvēnisse ēventum:} resultar, suceder, ocurrir, acontecer.
-\medskip
-
-\voc{Exercēre exercuisse exercitum:} trabajar, labrar, ejercitar, practicar, ejercer, impeler.
-\medskip
-
-\voc{Expellere expepulisse expulsum:} echar, expulsar, rechazar, arrojar.
-\medskip
-
-\voc{Explicāre explicāvisse explicātum:} desenredar, desplegar, aflojar, desenrollar.
-\medskip
-
-\voc{Exstinguere exstinxisse exstinctum:} extinguir, anular, desaparecer, destruir.
-\medskip
-
-\voc{Extruere exstruxisse exstructum:} construir, edificar, erigir, amontonar.
-\medskip
-
-
-\subsection*{\Large \voc{F}}
-\voc{Fabricāre fabricāvisse fabricātum:} fabricar, construir, forjar.
-\medskip
-
-\voc{Factiō, -ōnis, \ita{f}:} asociación, partido, facción, bando.
-\medskip
-
-\voc{Famulus, -ī,\ita{m}:} siervo, criado, servidor.
-\medskip
-
-\voc{Fās, indec, \ita{n}:} lo permitido por la ley divina, lo justo según los dioses.
-\medskip
-
-\voc{Fēstus -a -um:} día festivo.
-\medskip
-
-\voc{Fīrmus -a -um:} firme, sólido, resistente, seguro.
-\medskip
-
-\voc{Flagrāre flagrāvisse flagrātum:} arder, quemarse.
-\medskip
-
-\voc{Flamma, -ae, \ita{f}:} flama.
-\medskip
-
-\voc{Focus, -ī, \ita{m}:} hoguera, fuego del hogar.
-\medskip
-
-\voc{Fragor, -ōris, \ita{m}:} estrépito, ruido fuerte, estruendo.
-\medskip
-
-\voc{Frōns, -ondis, \ita{f}:} follaje, hojas, ramas.
-\medskip
-
-\voc{Fulgēre fulsisse (sin supino):} relampaguear, resplandecer.
-\medskip
-
-\voc{Fūnis, -is, \ita{m}:} cuerda, cable, amarra.
-\medskip
-
-\subsection*{\Large \voc{G}}
-\voc{Gemere gemuisse gemitum:} gemir, quejarse.
-\medskip
-
-\voc{Gemitus, -ūs, \ita{m}:} gemido, lamento.
-\medskip
-
-\voc{Genetrīx, -īcris, \ita{f}:} madre.
-\medskip
-
-\voc{Glōriārī glōriātus esse:} gloriarse.
-\medskip
-
-
-\subsection*{\Large \voc{H}}
-\voc{Haerēre haesisse haesum:} clavarse, hundirse, detenerse, adherirse, unirse, estar perplejo.
-\medskip
-
-\voc{Horror, -ōris, \ita{m}:} horror, espanto.
-\medskip
-
-
-\subsection*{\Large \voc{I}}
-\voc{Ibīdem, \ita{adv}:} allí mismo, en el mismo lugar.
-\medskip
-
-\voc{Illūstris -e:} brillante, notable.
-\medskip
-
-\voc{Immolāre immolāvisse immolātum:} inmolar, sacrificar.
-\medskip
-
-\voc{Incendere incendisse incēnsum:} incendiar, quemar, iluminar.
-\medskip
-
-\voc{Incendium, -iī, \ita{n}:} fuego, incendio.
-\medskip
-
-\voc{Incitāre incitāvisse incitātum:} incitar, estimular.
-\medskip
-
-\voc{Incohāre incohāvisse incohātum:} comenzar, emprender, empezar.
-\medskip
-
-\voc{Indūcere induxisse inductum:} conducir, introducir, cubrir, aplanar.
-\medskip
-
-\voc{Inēluctābilis -e:} inevitable, irresistible.
-\medskip
-
-\voc{Īnfīrmus -a -um:} débil, frágil.
-\medskip
-
-\voc{Inīre inīvisse initum:} entrar, penetrar, empezar, asistir.
-\medskip
-
-\voc{Īnsānia, -ae, \ita{f}:} locura, insensatez, demencia.
-\medskip
-
-\voc{Īnsānus -a -um:} insano, loco.
-\medskip
-
-\voc{Īnspicere īnspexisse īnspectum:} fijar la mirada en, mirar, examinar, inspeccionar. 
-\medskip
-
-\voc{Īnstaurāre īnstaurāvisse īnstaurātum:} instaurar, renovar, comenzar de nuevo, establecer.
-\medskip
-
-\voc{Interiectus -a -um:} interpuesto.
-\medskip
-
-\voc{Inter interior intimus, \ita{adv}:} en el interior.
-\medskip
-
-\voc{Inultus -a -um:} no vengado, impune.
-\medskip
-
-\voc{Inūtilis -e:} inútil.
-\medskip
-
-\voc{Iūstitia, –ae, \ita{f}:} justicia.
-\medskip
-
-\voc{Iuventūs, -ūtis, \ita{f}:} juventud.
-\medskip
-
-
-\subsection*{\Large \voc{L}}
-\voc{Later, -eris, \ita{m}:} ladrillo.
-\medskip
-
-\voc{Latericius, -tius, -a -um:} de ladrillo, enladrillado.
-\medskip
-
-\voc{Laurus,-ī, \ita{f}:} laurel, corona de laurel.
-\medskip
-
-\voc{Locāre locāvisse locātum:} colocar, situar, establecer.
-\medskip
-
-\voc{Longitūdō, -inis, \ita{f}:} longitud.
-\medskip
-
-\voc{Lūctus, -ūs, \ita{m}:} duelo, aflicción, luto.
-\medskip
-
-\voc{Lūmen, -inis, \ita{n}:} luz, resplandor.
-\medskip
-
-
-\subsection*{\Large \voc{M}}
-\voc{Māchina, -ae, \ita{f}:} máquina, artificio, ingenio mecánico.
-\medskip
-
-\voc{Magnitūdō, -inis, \ita{f}:} magnitud, grandeza, imponente.
-\medskip
-
-\voc{Marmor, -oris, \ita{n}:} mármol.
-\medskip
-
-\voc{Marmoreus -a -um:} marmóreo, de mármol.
-\medskip
-
-\voc{Mausōlēum, -ī, \ita{n}:} mausoleo, tumba magnífica.
-\medskip
-
-\voc{Metallum, -ī, \ita{n}:} metal, mina.
-\medskip
-
-\voc{Micāre micuisse :} brillar, centellear, moverse con rapidez. 
-\medskip
-
-\voc{Mōlēs, -is, \ita{f}:} masa, mole, gran peso, construcción enorme.
-\medskip
-
-\voc{Monumentum, -ī, \ita{n}:} monumento.
-\medskip
-
-\voc{Morbus, -ī, \ita{m}:} enfermedad grave.
-\medskip
-
-
-\subsection*{\Large \voc{N}}
-\voc{Nepōs, -ōtis, \ita{m}:} nieto, descendiente.
-\medskip
-
-\voc{Nēquīquam, \ita{adv}:} en vano, inútilmente, sin fundamento, innecesariamente.
-\medskip
-
-\voc{Nūmen, -inis, \ita{n}:} anuencia, voluntad, mandato.
-\medskip
-
-
-\subsection*{\Large \voc{O}}
-\voc{Obtruncāre:}
-\medskip
-
-\voc{Occultus -a -um:} oculto, escondido.
-\medskip
-
-\voc{Odor, -ōris, \ita{m}:} olor, aroma, perfume.
-\medskip
-
-\voc{Onus, -eris, \ita{n}:} carga, peso, fardo.
-\medskip
-
-\voc{Ōrātor, -ōris, \ita{m}:} orador, intercesor.
-\medskip
-
-\voc{Orīgō, -inis, \ita{f}:} origen, nacimiento, descender de.
-\medskip
-
-
-\subsection*{\Large \voc{P}}
-\voc{Palūs, -ūdis, \ita{f}:} pantano, charco, laguna.
-\medskip
-
-\voc{Pandere pandisse passum:} tender, extender, soltar.
-\medskip
-
-\voc{Pariter, \ita{adv}:} igualmente, al mismo tiempo, juntamente.
-\medskip
-
-\voc{Patefacere patefecisse patefactum:} abrir, descubrir, revelar.
-\medskip
-
-\voc{Patriciī, -ōrum, \ita{m}:} patricios.
-\medskip
-
-\voc{Patrius -a -um:} paterno, de los padres, ancestral, propio de la patria.
-\medskip
-
-\voc{Pavidus -a -um:} temeroso, tímido, lleno de miedo.
-\medskip
-
-\voc{Pavor, -ōris, \ita{m}:} pavor, temor, miedo.
-\medskip
-
-\voc{Pecus, -ūdis, \ita{f}:} res, animal agropecuario.
-\medskip
-
-\voc{Penetrāre penetrāvisse penetrātum:} penetrar, entrar en lo profundo, atravesar.
-\medskip
-
-\voc{Penitus, \ita{adv}:} profundamente, enteramente, hasta el fondo.
-\medskip
-
-\voc{Perfundere:} empapar, bañar, inundar, cubrir completamente con un líquido.
-\medskip
-
-\voc{Pius -a -um:} piadoso, devoto.
-\medskip
-
-\voc{Plēbēiī, -ōrum, \ita{m}:} plebeyos.
-\medskip
-
-\voc{Pōns, -tis, \ita{m}:} puente.
-\medskip
-
-\voc{Pontifex, -icis, \ita{m}:} pontífice.
-\medskip
-
-\voc{Porticus, -ūs, \ita{f}:} pórtico, galería con columnas.
-\medskip
-
-\voc{Praecipitāre praecipitāvisse praecipitātum:} precipitar, despeñar.
-\medskip
-
-\voc{Praeclārus -a -um:} muy claro, luminoso, famoso.
-\medskip
-
-\voc{Praedīcere praedīxisse praedictum:} predecir, profetizar.
-\medskip
-
-\voc{Praeficere praefēcisse praefectum:} poner al frente, dar el mando, confiar la dirección en alguien.
-\medskip
-
-\voc{Probāre probāvisse probātum:} probar, verificar, examinar, juzgar.
-\medskip
-
-\voc{Prōdigium, -iī, \ita{n}:} prodigio, presagio, señal divina.
-\medskip
-
-\voc{Prōdūcere prōdūxisse productum:} llevar adelante, sacar, conducir, prolongar.
-\medskip
-
-\voc{Profugus -a -um:} fugitivo, desterrado, exiliado.
-\medskip
-
-\voc{Prōmuntorium, -iī, \ita{n}:} promontorio.
-\medskip
-
-\voc{Prōra, -ae, \ita{f}:} proa de un barco.
-\medskip
-
-\subsection*{\Large \voc{Q}}
-\voc{Quadrātus -a -um:} cuadrado.
-\medskip
-
-\voc{Quondam, \ita{adv}:} en otro tiempo, una vez, antiguamente.
-\medskip
-
-
-\subsection*{\Large \voc{R}}
-\voc{Recūsāre recūsāvisse recūsātum:} rechazar, rehuir, protestar, rehusar.
-\medskip
-
-\voc{Reficere refēcisse refectum:} reconstruir, reparar, restaurar.
-\medskip
-
-\voc{Rēgia, -ae, \ita{f}:} residencial real, palacio.
-\medskip
-
-\voc{Rēgius -a -um:} regio, real, digno del rey.
-\medskip
-
-\voc{Rēgnum, -ī, \ita{n}:} reino.
-\medskip
-
-\voc{Renovāre renovāvisse renovātum:} renovar, restaurar.
-\medskip
-
-\voc{Repetere repetīvisse repetītum:} intentar de nuevo, retomar, reanudar, volver a.
-\medskip
-
-\voc{Resonāre resonāvisse:} resonar.
-\medskip
-
-\voc{Respicere respexisse respectum:} mirar hacia atrás, volver la mirada hacia alguien, considerar.
-\medskip
-
-\voc{Restāre restitisse (sin supino e impersonal en pasiva):} quedar, permanecer, sobrar.
-\medskip
-
-\voc{Restituere restituisse restitūtum:} restituir, devolver, restaurar, restablecer.
-\medskip
-
-\voc{Restringuere restrinxisse restrictum:} atar, restringir, oprimir, mostrar.
-\medskip
-
-\voc{Revīsere revīsisse revīsum:} volver, visitar de nuevo, volver a ver.
-\medskip
-
-\voc{Rōbur, -oris, \ita{n}:} roble.
-\medskip
-
-\voc{Rōstrum, -ī, \ita{n}:} pico de ave.
-\medskip
-
-\voc{Rotundus -a -um:} redondo.
-\medskip
-
-\voc{Ruere ruisse rutus:} caer, hundirse, desmoronarse, precipitarse, derribar.
-\medskip
-
-
-\subsection*{\Large \voc{S}}
-\voc{Sacer -cra -crum:} sagrado.
-\medskip
-
-\voc{Sacrāre sacrāvisse sacrātum:} consagrar, dedicar, santificar.
-\medskip
-
-\voc{Sacrificium, -iī, \ita{n}:} sacrificio, ofrenda.
-\medskip
-
-\voc{Saucius -a -um:} herido, golpeado, destrozado, debilitado, enfermo.
-\medskip
-
-\voc{Scelerātus -a -um:} profanado, criminal, impío, perverso, funesto.
-\medskip
-
-\voc{Sēdēs, -dis, \ita{f}:} sede, asiento, morada.
-\medskip
-
-\voc{Senātor, -ōris, \ita{m}:} senador.
-\medskip
-
-\voc{Senātus, -ūs, \ita{m}:} senado.
-\medskip
-
-\voc{Siccāre siccāvisse siccātum:} secar, desecar, ordeñar.
-\medskip
-
-\voc{Simulācrum, -ī, \ita{n}:} imagen, estatua, retrato, apariencia, simulacro.
-\medskip
-
-\voc{Socius, -iī, \ita{m}:} compañero, aliado.
-\medskip
-
-\voc{Somnium, -ī, \ita{n}:} sueño.
-\medskip
-
-\voc{Sonāre sonuisse sonitum:} sonar, emitir un sonido.
-\medskip
-
-\voc{Speciēs, -ēī, \ita{f}:} aspecto, apariencia, figura.
-\medskip
-
-\voc{Splendēre splenduisse (sin supino ni voz pasiva):} brillar, resplandecer.
-\medskip
-
-\voc{Splendidus -a -um:} brillante, claro, resplandeciente.
-\medskip
-
-\voc{Stadium, -iī, \ita{n}:} estadio, pista de carreras.
-\medskip
-
-\voc{Stāgnum, -ī, \ita{n}:} estanque, laguna, charca.
-\medskip
-
-\voc{Statua, -ae, \ita{f}:} estatua.
-\medskip
-
-\voc{Strāmentum, -ī, \ita{n}:} paja, cubierta de paja.
-\medskip
-
-\voc{Stringere strinxisse strictum:} estrechar, apretar. 
-\medskip
-
-\voc{Subterrāneus -a -um:} subterráneo.
-\medskip
-
-\voc{Superāre superāvisse superātum:} superar, vencer, prevalecer, abundar.
-\medskip
-
-\voc{Suprēmus -a -um:} el más alto, parte más alta, supremo.
-\medskip
-
-\voc{Suspectus -a -um:} sospechoso.
-\medskip
-
-
-\subsection*{\Large \voc{T}}
-\voc{Tegere texisse tectum:} cubrir, proteger, techar.
-\medskip
-
-\voc{Tēlum, -ī, \ita{n}:} arma arrojadiza, proyectil, dardo.
-\medskip
-
-\voc{Tendere tetendisse tensum (o tentum):} tender, estirar, levantar.
-\medskip
-
-\voc{Tener -a -um:} tierno, delicado, ligero, endeble, afeminado.
-\medskip
-
-\voc{Thermae, -ārum, \ita{f}:} baños públicos, termas.
-\medskip
-
-\voc{Tonāre tonuisse:} tronar, retumbar.
-\medskip
-
-\voc{Trabs, -bis, \ita{f}:} viga, tronco, madera grande.
-\medskip
-
-\voc{Triumphalis -e:} triunfal.
-\medskip
-
-\voc{Triumphāre triumphāvisse triumphātum:} triunfar, celebrar un triunfo.
-\medskip
-
-\voc{Triumphus, -ī, \ita{m}:} triunfo, entrada solemne del general victorioso llevado por un carro al Capitolio.
-\medskip
-
-\voc{Trucīdāre trucīdāvisse trucīdātum:} degollar, masacrar, exitinguir. 
-\medskip
-
-\voc{Tuba, -ae, \ita{f}:} trompeta.
-\medskip
-
-\voc{Tumulus, -ī, \ita{m}:} colina, elevación de tierra, tumba.
-\medskip
-
-\voc{Turris, -is, \ita{f}:} torre.
-\medskip
-
-
-\subsection*{\Large \voc{U}}
-\voc{Ūber, -ris:} ubre, seno, fecundo, rico.
-\medskip
-
-\voc{Ulcīscī ulciscultus esse:} vengar, castigar.
-\medskip
-
-\voc{Ultor, -ōris, \ita{m}:} vengador.
-\medskip
-
-\voc{Ululātus, -ūs, \ita{m}:} aullido, grito prolongado.
-\medskip
-
-\voc{Undique, \ita{adv}:} de todas partes, por todas partes.
-\medskip
-
-
-
-
-\subsection*{\Large \voc{V}}
-\voc{Vādere vāsisse:} marchar, avanzar, ir contra.
-\medskip
-
-\voc{Vāstus -a -um:} vacío, desierto, inmenso, enorme.
-\medskip
-
-\voc{Vestibulum, -ī, \ita{n}:} vestíbulo, entrada.
-\medskip
-
-\voc{Vetustās, -ātis, \ita{f}:} antigüedad, vejez, tiempo antiguo.
-\medskip
-
-\voc{Vīcus, -ī, \ita{m}:} barrio, calle.
-\medskip
-
-\voc{Vinculum, -ī, \ita{n}:} cadena, ligadura, vínculo.
-\medskip
-
-\voc{Vovēre vovisse votum:} prometer, hacer un voto a una divinidad.
-\medskip
-
-
-\end{multicols}
-
-\end{document}
