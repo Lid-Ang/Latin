@@ -1,21 +1,30 @@
 \documentclass{article}
-\usepackage[spanish]{babel}
-\usepackage[style=indexgroup,nonumberlist]{glossaries}
-\usepackage[margin=2.4cm]{geometry}
-\usepackage{multicol}
+\usepackage{geometry}
+\usepackage[spanish, mexico]{babel}
+\usepackage[nonumberlist]{glossaries}
+\usepackage{glossary-mcols}
+\setglossarystyle{mcolindexgroup}
+\usepackage{enumitem}
+
+
+
+
+\renewcommand{\glsnamefont}[1]{\textbf{#1}}
+\setlength{\glsdescwidth}{1.0\linewidth}
 
 \newcommand{\ita}[1]{\textit{#1}}
 
 \makenoidxglossaries
 \input{Vocabularium.tex}
 
-\setlength{\columnsep}{15pt}
-
+\setlength{\glsdescwidth}{1.0\linewidth}
 
 \begin{document}
 \section*{Vocabularium}
 \glsaddall
-\begin{multicols}{2}
+
+\setlist[description]{leftmargin=0pt} 
 \printnoidxglossary[title={}]
-\end{multicols}
+
+
 \end{document}

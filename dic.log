@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.24)  9 MAR 2026 20:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.24)  13 MAR 2026 12:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -23,14 +23,36 @@ File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+) (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count195
+\Gm@cntv=\count196
+\c@Gm@tempcnt=\count197
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks18
+ (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2024/01/07 v24.1 The Babel package
-\babel@savecnt=\count195
-\U@D=\dimen141
+\babel@savecnt=\count198
+\U@D=\dimen149
 \l@unhyphenated=\language79
  (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count196
+\bbl@dirlevel=\count199
 
 *************************************
 * Local config file bblopts.cfg used
@@ -39,12 +61,9 @@ Package: babel 2024/01/07 v24.1 The Babel package
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
 ) (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.ldf
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
-\es@quottoks=\toks17
-\es@quotdepth=\count197
+\es@quottoks=\toks19
+\es@quotdepth=\count266
 Package babel Info: Making " an active character on input line 570.
-Package babel Info: Making . an active character on input line 675.
-Package babel Info: Making < an active character on input line 722.
-Package babel Info: Making > an active character on input line 722.
 )) (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel-spanish.tex
 Package babel Info: Importing font and identification data for spanish
 (babel)             from babel-es.ini. Reported on input line 11.
@@ -55,25 +74,25 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 ) (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
  (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
-\XKV@toks=\toks18
-\XKV@tempa@toks=\toks19
- (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\keyval.tex))
-\XKV@depth=\count198
+\XKV@toks=\toks20
+\XKV@tempa@toks=\toks21
+)
+\XKV@depth=\count267
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )) (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty
 Package: mfirstuc 2025/04/03 v2.09 (NLCT)
  (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count199
+\etb@tempcnta=\count268
 )
-\@glsmfirst=\toks20
-\@glsmrest=\toks21
+\@glsmfirst=\toks22
+\@glsmrest=\toks23
 ) (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty
 Package: xfor 2009/02/05 v1.05 (NLCT)
 ) (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks22
-\ex@=\dimen142
+\@emptytoks=\toks24
+\ex@=\dimen150
 ) (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/tracklang\tracklang.sty
 Package: tracklang 2025/03/11 v1.6.6 (NLCT) Track Languages
  (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/generic/tracklang\tracklang.tex)
@@ -94,18 +113,18 @@ For additional information on amsmath, use the `?' option.
 Package: amstext 2021/08/26 v2.01 AMS text
 ) (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen143
+\pmbraise@=\dimen151
 ) (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count266
+\inf@bad=\count269
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count267
-\leftroot@=\count268
+\uproot@=\count270
+\leftroot@=\count271
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count269
-\DOTSCASE@=\count270
+\classnum@=\count272
+\DOTSCASE@=\count273
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -115,87 +134,87 @@ LaTeX Info: Redefining \big on input line 722.
 LaTeX Info: Redefining \Big on input line 723.
 LaTeX Info: Redefining \bigg on input line 724.
 LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen144
+\big@size=\dimen152
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count271
+\macc@depth=\count274
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count272
+\c@MaxMatrixCols=\count275
 \dotsspace@=\muskip16
-\c@parentequation=\count273
-\dspbrk@lvl=\count274
-\tag@help=\toks23
-\row@=\count275
-\column@=\count276
-\maxfields@=\count277
-\andhelp@=\toks24
-\eqnshift@=\dimen145
-\alignsep@=\dimen146
-\tagshift@=\dimen147
-\tagwidth@=\dimen148
-\totwidth@=\dimen149
-\lineht@=\dimen150
-\@envbody=\toks25
+\c@parentequation=\count276
+\dspbrk@lvl=\count277
+\tag@help=\toks25
+\row@=\count278
+\column@=\count279
+\maxfields@=\count280
+\andhelp@=\toks26
+\eqnshift@=\dimen153
+\alignsep@=\dimen154
+\tagshift@=\dimen155
+\tagwidth@=\dimen156
+\totwidth@=\dimen157
+\lineht@=\dimen158
+\@envbody=\toks27
 \multlinegap=\skip51
 \multlinetaggap=\skip52
-\mathdisplay@stack=\toks26
+\mathdisplay@stack=\toks28
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
-\l__datatool_tmpa_int=\count278
-\l__datatool_tmpb_int=\count279
-\l__datatool_tmpc_int=\count280
-\l__datatool_tmpd_int=\count281
-\l__datatool_count_int=\count282
-\l__datatool_tmp_datatype_int=\count283
-\l__datatool_tmpa_dim=\dimen151
-\l__datatool_tmpb_dim=\dimen152
+\l__datatool_tmpa_int=\count281
+\l__datatool_tmpb_int=\count282
+\l__datatool_tmpc_int=\count283
+\l__datatool_tmpd_int=\count284
+\l__datatool_count_int=\count285
+\l__datatool_tmp_datatype_int=\count286
+\l__datatool_tmpa_dim=\dimen159
+\l__datatool_tmpb_dim=\dimen160
  (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-l3fp.def
 File: datatool-l3fp.def 2025/12/04 v3.4.3 (NLCT)
 )
-\@dtl@toks=\toks27
-\@dtl@tmpcount=\count284
+\@dtl@toks=\toks29
+\@dtl@tmpcount=\count287
 \dtl@tmplength=\skip53
 \l__datatool_measure_box=\box53
-\dtl@sortresult=\count285
+\dtl@sortresult=\count288
  (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-utf8.ldf
 File: datatool-utf8.ldf 2025/12/04 v3.4.3 (NLCT)
 )
-\@dtl@datatype=\count286
-\c_datatool_unknown_int=\count287
-\l__datatool_year_int=\count288
-\l__datatool_month_int=\count289
-\l__datatool_day_int=\count290
-\l__datatool_hour_int=\count291
-\l__datatool_minute_int=\count292
-\l__datatool_second_int=\count293
-\l__datatool_tzhour_int=\count294
-\l__datatool_tzminute_int=\count295
-\l__datatool_julian_int=\count296
-\l__datatool_local_julian_int=\count297
-\l__datatool_prefix_int=\count298
-\l__datatool_suffix_int=\count299
-\@dtl@foreach@level=\count300
+\@dtl@datatype=\count289
+\c_datatool_unknown_int=\count290
+\l__datatool_year_int=\count291
+\l__datatool_month_int=\count292
+\l__datatool_day_int=\count293
+\l__datatool_hour_int=\count294
+\l__datatool_minute_int=\count295
+\l__datatool_second_int=\count296
+\l__datatool_tzhour_int=\count297
+\l__datatool_tzminute_int=\count298
+\l__datatool_julian_int=\count299
+\l__datatool_local_julian_int=\count300
+\l__datatool_prefix_int=\count301
+\l__datatool_suffix_int=\count302
+\@dtl@foreach@level=\count303
 
 
 Package tracklang Warning: No `datatool' support for dialect `spanish'  on input line 9924.
 
-\dtl@codeA=\count301
-\dtl@codeB=\count302
+\dtl@codeA=\count304
+\dtl@codeB=\count305
 )
-\gls@level=\count303
-\@gls@tmpb=\toks28
+\gls@level=\count306
+\@gls@tmpb=\toks30
 \gls@tmplen=\skip54
-\l__glossaries_tmpa_dim=\dimen153
-\l__glossaries_tmpb_dim=\dimen154
-\glskeylisttok=\toks29
-\glslabeltok=\toks30
-\glsshorttok=\toks31
-\glslongtok=\toks32
+\l__glossaries_tmpa_dim=\dimen161
+\l__glossaries_tmpb_dim=\dimen162
+\glskeylisttok=\toks31
+\glslabeltok=\toks32
+\glsshorttok=\toks33
+\glslongtok=\toks34
  (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-hypernav.sty
 Package: glossary-hypernav 2025/11/09 v4.9 (NLCT)
 ) (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-list.sty
@@ -209,18 +228,18 @@ Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
 \LTright=\skip57
 \LTpre=\skip58
 \LTpost=\skip59
-\LTchunksize=\count304
-\LTcapwidth=\dimen155
+\LTchunksize=\count307
+\LTcapwidth=\dimen163
 \LT@head=\box54
 \LT@firsthead=\box55
 \LT@foot=\box56
 \LT@lastfoot=\box57
 \LT@gbox=\box58
-\LT@cols=\count305
-\LT@rows=\count306
-\c@LT@tables=\count307
-\c@LT@chunks=\count308
-\LT@p@ftn=\toks33
+\LT@cols=\count308
+\LT@rows=\count309
+\c@LT@tables=\count310
+\c@LT@chunks=\count311
+\LT@p@ftn=\toks35
 )
 \glsdescwidth=\skip60
 \glspagelistwidth=\skip61
@@ -228,55 +247,38 @@ Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
 Package: glossary-super 2025/11/09 v4.9 (NLCT)
  (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabular.sty
 Package: supertabular 2025/06/26 v4.2d the supertabular environment
-\c@tracingst=\count309
-\ST@wd=\dimen156
+\c@tracingst=\count312
+\ST@wd=\dimen164
 \ST@rightskip=\skip62
 \ST@leftskip=\skip63
 \ST@parfillskip=\skip64
-\ST@pageleft=\dimen157
-\ST@headht=\dimen158
-\ST@tailht=\dimen159
-\ST@pagesofar=\dimen160
-\ST@pboxht=\dimen161
-\ST@rowht=\dimen162
-\ST@prevht=\dimen163
-\ST@toadd=\dimen164
-\ST@dimen=\dimen165
+\ST@pageleft=\dimen165
+\ST@headht=\dimen166
+\ST@tailht=\dimen167
+\ST@pagesofar=\dimen168
+\ST@pboxht=\dimen169
+\ST@rowht=\dimen170
+\ST@prevht=\dimen171
+\ST@toadd=\dimen172
+\ST@dimen=\dimen173
 \ST@pbox=\box59
 )) (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-tree.sty
 Package: glossary-tree 2025/11/09 v4.9 (NLCT)
-\l__glossaries_tree_max_known_level_int=\count310
-\l__glossaries_tree_offset_dim=\dimen166
-\l__glossaries_tree_namewidth_dim=\dimen167
-\l__glossaries_tree_symbolwidth_dim=\dimen168
-\l__glossaries_tree_prenamesym_width_dim=\dimen169
-\l__glossaries_tree_presubnamesym_width_dim=\dimen170
-\l__glossaries_tree_namewidth_padding_dim=\dimen171
-\l__glossaries_tree_symbolwidth_padding_dim=\dimen172
-\l__glossaries_tree_namesymbolwidth_dim=\dimen173
-\l__glossaries_tree_namesymbolwidth_padding_dim=\dimen174
-\l__glossaries_tree_level_int=\count311
+\l__glossaries_tree_max_known_level_int=\count313
+\l__glossaries_tree_offset_dim=\dimen174
+\l__glossaries_tree_namewidth_dim=\dimen175
+\l__glossaries_tree_symbolwidth_dim=\dimen176
+\l__glossaries_tree_prenamesym_width_dim=\dimen177
+\l__glossaries_tree_presubnamesym_width_dim=\dimen178
+\l__glossaries_tree_namewidth_padding_dim=\dimen179
+\l__glossaries_tree_symbolwidth_padding_dim=\dimen180
+\l__glossaries_tree_namesymbolwidth_dim=\dimen181
+\l__glossaries_tree_namesymbolwidth_padding_dim=\dimen182
+\l__glossaries_tree_level_int=\count314
 \glstreeindent=\skip65
-)) (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
- (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
-Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
-))
-\Gm@cnth=\count312
-\Gm@cntv=\count313
-\c@Gm@tempcnt=\count314
-\Gm@bindingoffset=\dimen175
-\Gm@wd@mp=\dimen176
-\Gm@odd@mp=\dimen177
-\Gm@even@mp=\dimen178
-\Gm@layoutwidth=\dimen179
-\Gm@layoutheight=\dimen180
-\Gm@layouthoffset=\dimen181
-\Gm@layoutvoffset=\dimen182
-\Gm@dimlist=\toks34
- (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+)) (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-mcols.sty
+Package: glossary-mcols 2025/11/09 v4.9 (NLCT)
+ (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \c@tracingmulticols=\count315
 \mult@box=\box60
@@ -345,33 +347,88 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \mult@nat@firstbox=\box104
 \colbreak@box=\box105
 \mc@col@check@num=\count324
-) (Vocabularium.tex) (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count325
-\l__pdf_internal_box=\box106
-) (dic.aux
-LaTeX Info: Redefining \. on input line 10.
-LaTeX Info: Redefining \% on input line 10.
-\g__glossaries_gls_ref_main_int=\count326
 )
+\l__glossaries_mcols_columns_int=\count325
+) (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip68
+\enit@outerparindent=\dimen192
+\enit@toks=\toks36
+\enit@inbox=\box106
+\enit@count@id=\count326
+\enitdp@description=\count327
+) (Vocabularium.tex
+Runaway argument?
+Vocabularium.tex:1286: Paragraph ended before \\ns@newglossary was complete.
+<to be read again> 
+                   \par 
+l.1286 
+       
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+Runaway argument?
+Vocabularium.tex:1291: Paragraph ended before \\ns@newglossary was complete.
+<to be read again> 
+                   \par 
+l.1291 
+       
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+Runaway argument?
+Vocabularium.tex:1296: Paragraph ended before \\ns@newglossary was complete.
+<to be read again> 
+                   \par 
+l.1296 
+       
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+Runaway argument?
+Vocabularium.tex:1301: Paragraph ended before \\ns@newglossary was complete.
+<to be read again> 
+                   \par 
+l.1301 
+       
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+Runaway argument?
+Vocabularium.tex:1306: Paragraph ended before \\ns@newglossary was complete.
+<to be read again> 
+                   \par 
+l.1306 
+       
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+) (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count328
+\l__pdf_internal_box=\box107
+) (dic.aux)
 \openout1 = `dic.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Info: Redefining \. on input line 15.
-LaTeX Info: Redefining \% on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -381,22 +438,22 @@ LaTeX Info: Redefining \% on input line 15.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(68.28644pt, 477.72212pt, 68.28644pt)
-* v-part:(T,H,B)=(68.28644pt, 658.39711pt, 68.28644pt)
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=477.72212pt
-* \textheight=658.39711pt
-* \oddsidemargin=-3.98355pt
-* \evensidemargin=-3.98355pt
-* \topmargin=-40.98355pt
+* \textwidth=430.00462pt
+* \textheight=556.47656pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=-13.87262pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
 * \footskip=30.0pt
 * \marginparwidth=65.0pt
 * \marginparsep=11.0pt
-* \columnsep=15.0pt
+* \columnsep=10.0pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
@@ -407,20 +464,779 @@ LaTeX Info: Redefining \% on input line 15.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
 
-Package glossaries Info: Preparing to sort glossary `main' (total number of
-(glossaries)             referenced entries: 252)
+Package glossaries Warning: Empty glossary for \printnoidxglossary[type={main}]. Rerun may be required (or you may have forgotten to use commands like \gls) on input line 27.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--19
-[]\OT1/cmr/bx/n/10 Comprehendere com-prehen-dis-se com-
- []
+Package glossaries Warning: entry `aborigines' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `absumere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `adimere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `aedes' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `aerarium' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `aereus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `aes' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `aeternus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `alloqui' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `amens' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `amplecti' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `amplus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `anguis' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `anniversarius' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `ara' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `arcuatus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `ardere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `arvum' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `arx' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `attingere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `augustus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `aura' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `auratus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `avehere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `balneae' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `barba' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `basilica' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `benignus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `bibliotheca' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `caelestis' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `candelabrum' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `casa' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `celeber' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `cella' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `clipeus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `clivus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `cloaca' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `collabi' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `collocare' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `coma' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `commitere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `commovere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `complecti' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `comprehendere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `concedere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `concidere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `conclamare' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `concordia' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `conferre' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `confugere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `conicere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `consecrari' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `consul' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `contingere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `corripere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `cremare' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `crinis' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `culmen' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `curia' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `custos' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `decurrere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `dedicare' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `deducere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `defensor' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `defigere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `demittere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `deponere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `destruere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `discordia' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `discumbere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `diuturnus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `divinus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `divus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `dolus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `domesticus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `dominari' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `ductus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `dudum' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `efferre' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `egere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `elabi' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `eminere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `erigere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `evenire' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `exercere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `expellere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `explicare' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `exstinguere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `extruere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `fabricare' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `factio' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `famulus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `fas' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `festus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `firmus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `flagrare' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `flamma' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `focus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `fragor' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `frons' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `fulgere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `funis' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `gemere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `gemitus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `genetrix' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `gloriari' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `haerere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `horror' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `ibidem' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `illustris' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `immolare' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `incendere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `incendium' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `incitare' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `incohare' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `inducere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `ineluctabilis' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `infirmus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `inire' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `insania' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `insanus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `inspicere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `instaurare' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `interiectus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `inter' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `inultus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `inutilis' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `iustitia' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `iuventus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `later' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `latericius' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `laurus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `locare' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `longitudo' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `luctus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `lumen' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `machina' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `magnitudo' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `marmor' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `marmoreus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `mausoleum' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `metallum' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `micare' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `moles' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `monumentum' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `morbus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `nepos' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `nequiquam' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `numen' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `obtruncare' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `occultus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `odor' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `onus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `orator' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `origo' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `palus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `pandere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `pariter' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `patefacere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `patricii' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `patrius' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `pavidus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `pavor' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `pecus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `penetrare' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `penitus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `perfundere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `pius' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `plebeii' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `pons' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `pontifex' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `porticus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `praecipitare' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `praeclarus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `praedicere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `praeficere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `probare' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `prodigium' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `producere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `profugus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `promuntorium' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `prora' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `quadratus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `quondam' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `recusare' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `reficere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `regia' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `regius' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `regnum' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `renovare' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `repetere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `resonare' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `respicere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `restare' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `restituere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `restringuere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `revisere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `robur' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `rostrum' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `rotundus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `ruere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `sacer' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `sacrare' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `sacrificium' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `saucius' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `sceleratus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `sedes' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `senator' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `senatus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `siccari' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `simulacrum' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `socius' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `somnium' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `sonare' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `species' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `splendere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `splendidus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `stadium' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `stagnum' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `statua' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `stramentum' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `stringere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `subterraneus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `superare' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `supremus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `suspectus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `tegere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `telum' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `tendere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `tener' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `thermae' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `tonare' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `trabs' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `triumphalis' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `triumphare' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `triumphus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `trucidare' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `tuba' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `tumulus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `turris' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `uber' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `ulcisci' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `ultor' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `ululatus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `undique' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `vadere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `vastus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `vestibulum' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `vetustas' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `vicus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `vinculum' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `vovere' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: entry `pondus' indexing changed since previous run (or no previous run) on input line 30.
+
+
+Package glossaries Warning: Rerun required to get \printnoidxglossary up to date on input line 30.
 
 [1
 
-{C:/Users/lidan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3] [4] (dic.aux
-LaTeX Info: Redefining \. on input line 10.
-LaTeX Info: Redefining \% on input line 10.
+{C:/Users/lidan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (dic.aux
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+\g__glossaries_gls_ref_main_int=\count329
 )
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -428,17 +1244,17 @@ L3 programming layer <2024-01-04>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 19204 strings out of 474486
- 391640 string characters out of 5743755
- 1948542 words of memory out of 5000000
- 41426 multiletter control sequences out of 15000+600000
- 559341 words of font info for 40 fonts, out of 8000000 for 9000
+ 19042 strings out of 474486
+ 382500 string characters out of 5743755
+ 1926542 words of memory out of 5000000
+ 41258 multiletter control sequences out of 15000+600000
+ 558674 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 78i,6n,79p,2552b,1030s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/lidan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/lidan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/lidan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/lidan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on dic.pdf (4 pages, 73481 bytes).
+ 78i,5n,79p,2544b,545s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/lidan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/lidan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on dic.pdf (1 page, 19288 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
+ 16 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
