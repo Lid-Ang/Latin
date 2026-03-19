@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.24)  13 MAR 2026 12:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.24)  18 MAR 2026 20:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -357,78 +357,40 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@inbox=\box106
 \enit@count@id=\count326
 \enitdp@description=\count327
-) (Vocabularium.tex
-Runaway argument?
-Vocabularium.tex:1286: Paragraph ended before \\ns@newglossary was complete.
-<to be read again> 
-                   \par 
-l.1286 
-       
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-Runaway argument?
-Vocabularium.tex:1291: Paragraph ended before \\ns@newglossary was complete.
-<to be read again> 
-                   \par 
-l.1291 
-       
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-Runaway argument?
-Vocabularium.tex:1296: Paragraph ended before \\ns@newglossary was complete.
-<to be read again> 
-                   \par 
-l.1296 
-       
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-Runaway argument?
-Vocabularium.tex:1301: Paragraph ended before \\ns@newglossary was complete.
-<to be read again> 
-                   \par 
-l.1301 
-       
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-Runaway argument?
-Vocabularium.tex:1306: Paragraph ended before \\ns@newglossary was complete.
-<to be read again> 
-                   \par 
-l.1306 
-       
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-) (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+) (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (Vocabularium.tex) (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count328
 \l__pdf_internal_box=\box107
-) (dic.aux)
+) (dic.aux
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+\g__glossaries_gls_ref_main_int=\count329
+)
 \openout1 = `dic.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -464,779 +426,44 @@ LaTeX Font Info:    ... okay on input line 22.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \. on input line 22.
-LaTeX Info: Redefining \% on input line 22.
-
-Package glossaries Warning: Empty glossary for \printnoidxglossary[type={main}]. Rerun may be required (or you may have forgotten to use commands like \gls) on input line 27.
-
-
-Package glossaries Warning: entry `aborigines' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `absumere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `adimere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `aedes' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `aerarium' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `aereus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `aes' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `aeternus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `alloqui' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `amens' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `amplecti' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `amplus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `anguis' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `anniversarius' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `ara' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `arcuatus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `ardere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `arvum' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `arx' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `attingere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `augustus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `aura' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `auratus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `avehere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `balneae' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `barba' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `basilica' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `benignus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `bibliotheca' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `caelestis' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `candelabrum' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `casa' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `celeber' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `cella' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `clipeus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `clivus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `cloaca' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `collabi' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `collocare' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `coma' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `commitere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `commovere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `complecti' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `comprehendere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `concedere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `concidere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `conclamare' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `concordia' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `conferre' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `confugere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `conicere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `consecrari' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `consul' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `contingere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `corripere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `cremare' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `crinis' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `culmen' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `curia' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `custos' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `decurrere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `dedicare' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `deducere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `defensor' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `defigere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `demittere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `deponere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `destruere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `discordia' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `discumbere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `diuturnus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `divinus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `divus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `dolus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `domesticus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `dominari' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `ductus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `dudum' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `efferre' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `egere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `elabi' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `eminere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `erigere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `evenire' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `exercere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `expellere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `explicare' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `exstinguere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `extruere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `fabricare' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `factio' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `famulus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `fas' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `festus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `firmus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `flagrare' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `flamma' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `focus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `fragor' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `frons' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `fulgere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `funis' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `gemere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `gemitus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `genetrix' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `gloriari' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `haerere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `horror' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `ibidem' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `illustris' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `immolare' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `incendere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `incendium' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `incitare' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `incohare' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `inducere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `ineluctabilis' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `infirmus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `inire' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `insania' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `insanus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `inspicere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `instaurare' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `interiectus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `inter' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `inultus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `inutilis' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `iustitia' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `iuventus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `later' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `latericius' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `laurus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `locare' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `longitudo' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `luctus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `lumen' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `machina' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `magnitudo' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `marmor' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `marmoreus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `mausoleum' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `metallum' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `micare' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `moles' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `monumentum' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `morbus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `nepos' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `nequiquam' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `numen' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `obtruncare' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `occultus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `odor' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `onus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `orator' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `origo' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `palus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `pandere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `pariter' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `patefacere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `patricii' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `patrius' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `pavidus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `pavor' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `pecus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `penetrare' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `penitus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `perfundere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `pius' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `plebeii' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `pons' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `pontifex' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `porticus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `praecipitare' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `praeclarus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `praedicere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `praeficere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `probare' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `prodigium' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `producere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `profugus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `promuntorium' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `prora' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `quadratus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `quondam' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `recusare' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `reficere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `regia' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `regius' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `regnum' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `renovare' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `repetere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `resonare' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `respicere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `restare' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `restituere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `restringuere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `revisere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `robur' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `rostrum' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `rotundus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `ruere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `sacer' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `sacrare' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `sacrificium' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `saucius' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `sceleratus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `sedes' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `senator' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `senatus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `siccari' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `simulacrum' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `socius' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `somnium' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `sonare' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `species' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `splendere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `splendidus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `stadium' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `stagnum' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `statua' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `stramentum' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `stringere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `subterraneus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `superare' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `supremus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `suspectus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `tegere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `telum' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `tendere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `tener' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `thermae' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `tonare' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `trabs' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `triumphalis' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `triumphare' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `triumphus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `trucidare' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `tuba' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `tumulus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `turris' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `uber' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `ulcisci' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `ultor' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `ululatus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `undique' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `vadere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `vastus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `vestibulum' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `vetustas' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `vicus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `vinculum' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `vovere' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: entry `pondus' indexing changed since previous run (or no previous run) on input line 30.
-
-
-Package glossaries Warning: Rerun required to get \printnoidxglossary up to date on input line 30.
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
+
+Package glossaries Info: Preparing to sort glossary `main' (total number of
+(glossaries)             referenced entries: 324)
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 29.
+(C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 29.
+ (C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[]\OT1/cmr/bx/n/10 Comprehendere com-prehen-dis-se com-
+ []
 
 [1
 
-{C:/Users/lidan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (dic.aux
+{C:/Users/lidan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[]\OT1/cmr/bx/n/10 C^^Vonsecr^^Vare c^^Vonsecr^^Vavisse c^^Vonsecr^^Vatum
+ []
+
+[2] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[]\OT1/cmr/bx/n/10 Praecipit^^Vare prae-ci-pit^^Vavisse prae-ci-
+ []
+
+[4] [5]
+Underfull \hbox (badness 7759) in paragraph at lines 29--29
+[]\OT1/cmr/bx/n/10 Stupefacere, stu-pef^^Vecisse, stu-pe-fac-tum
+ []
+
+[6] [7] (dic.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
-\g__glossaries_gls_ref_main_int=\count329
 )
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -1244,17 +471,17 @@ L3 programming layer <2024-01-04>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 19042 strings out of 474486
- 382500 string characters out of 5743755
- 1926542 words of memory out of 5000000
- 41258 multiletter control sequences out of 15000+600000
- 558674 words of font info for 38 fonts, out of 8000000 for 9000
+ 22442 strings out of 474486
+ 451359 string characters out of 5743755
+ 1940542 words of memory out of 5000000
+ 44635 multiletter control sequences out of 15000+600000
+ 561386 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 78i,5n,79p,2544b,545s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/lidan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/lidan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on dic.pdf (1 page, 19288 bytes).
+ 78i,6n,79p,2544b,1165s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/lidan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/lidan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/lidan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/lidan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/lidan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/lidan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on dic.pdf (7 pages, 100846 bytes).
 PDF statistics:
- 16 PDF objects out of 1000 (max. 8388607)
+ 56 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
