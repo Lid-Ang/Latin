@@ -1,32 +1,29 @@
 \documentclass{article}
-\usepackage{geometry}
+\usepackage[hmargin=2.5cm, vmargin=2cm]{geometry}
 \usepackage[spanish, mexico]{babel}
 \usepackage[nonumberlist]{glossaries}
 \usepackage{glossary-mcols}
 \setglossarystyle{mcolindexgroup}
-\usepackage{enumitem}
-\usepackage{amsmath, amssymb}
+\usepackage{multicol}
 
-
-
-
-\renewcommand{\glsnamefont}[1]{\textbf{#1}}
-\setlength{\glsdescwidth}{1.0\linewidth}
+\setlength{\columnsep}{20pt}       % espacio entre columnas
+\setlength{\columnseprule}{0.7pt} 
 
 \newcommand{\ita}[1]{\textit{#1}}
-\newcommand{\mc}[1]{\overline{#1}}
+
 
 \makenoidxglossaries
 \input{Vocabularium.tex}
 
-\setlength{\glsdescwidth}{1.0\linewidth}
+
 
 \begin{document}
-\section*{Vocabularium}
+\begin{center}
+\section*{\Large VOCABULARIO LATÍN-ESPAÑOL}
+\Large\ita{(Roma Aeterna)}
+\end{center}
+
 \glsaddall
-
-\setlist[description]{leftmargin=0pt} 
 \printnoidxglossary[title={}]
-
 
 \end{document}
