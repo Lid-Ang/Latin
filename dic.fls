@@ -1,6 +1,6 @@
-PWD c:\Users\lidan\OneDrive\Escritorio\LEAN\Latin
+PWD c:\Users\lidan\OneDrive\Escritorio\Latín\Latin
 INPUT C:\Users\lidan\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\lidan\OneDrive\Escritorio\LEAN\Latin\dic.tex
+INPUT c:\Users\lidan\OneDrive\Escritorio\Latín\Latin\dic.tex
 OUTPUT dic.log
 INPUT C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\lidan\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls

@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1786835130.78946 "c:/Users/lidan/OneDrive/Escritorio/LEAN/Latin/dic.tex" "dic.pdf" "dic" 1786835135.59167 0
+["pdflatex"] 1787018384.5445 "c:/Users/lidan/OneDrive/Escritorio/Latín/Latin/dic.tex" "dic.pdf" "dic" 1787018391.08673 0
   "C:/Users/lidan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1778549066 107510 0aa8bf47749266a307cdee61ee7b36ee ""
   "C:/Users/lidan/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1706134936 24225046 c81072a53a1e13304317b9a5efee7d87 ""
   "C:/Users/lidan/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -58,10 +58,10 @@
   "C:/Users/lidan/AppData/Local/Programs/MiKTeX/tex/latex/translator/translator.sty" 1622471510 8765 56d370785f0143111ff9898b5adfe08e ""
   "C:/Users/lidan/AppData/Local/Programs/MiKTeX/tex/latex/xfor/xfor.sty" 1233849756 2689 44855b72da58344b1c1d9b3087bce6ca ""
   "C:/Users/lidan/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "Vocabularium.tex" 1786835130 49293 625b8a858249b6cd095b96efd93c1bad ""
-  "c:/Users/lidan/OneDrive/Escritorio/LEAN/Latin/dic.tex" 1786835129 589 872a7e753cf59f0a71a1bff12095a527 ""
-  "dic.aux" 1786835135 34536 32ecdc8d2fdae47b7a276b394f910a77 "pdflatex"
-  "dic.tex" 1786835129 589 872a7e753cf59f0a71a1bff12095a527 ""
+  "Vocabularium.tex" 1787018381 49354 d28fcb48307ae904f9f5c32d64e1f5f4 ""
+  "c:/Users/lidan/OneDrive/Escritorio/Latín/Latin/dic.tex" 1787018381 587 4a32ed2c5fec1ae63a6504edb08e471f ""
+  "dic.aux" 1787018390 34536 32ecdc8d2fdae47b7a276b394f910a77 "pdflatex"
+  "dic.tex" 1787018381 587 4a32ed2c5fec1ae63a6504edb08e471f ""
   (generated)
   "dic.aux"
   "dic.log"
